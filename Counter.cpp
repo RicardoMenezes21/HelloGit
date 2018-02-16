@@ -6,7 +6,7 @@ int main() {
   
   int count;
   
-  for (count = 0; count < 10; count++){
+  for (count = 0; count < 100; count++){
     cout << count << endl;
   }
 
